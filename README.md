@@ -1,2 +1,1 @@
-mi primer proyecto en Github
-Aprendiendo Git
+Estoy en main
