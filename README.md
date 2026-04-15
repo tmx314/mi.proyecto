@@ -1,1 +1,1 @@
-Estoy en una rama llamada Prueba
+Estoy en prueba
